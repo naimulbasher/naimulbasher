@@ -1,6 +1,6 @@
 # Welcome to My **SQA Engineering** Journey ✨ | Crafting Quality Software Solutions  
 
-![Banner](https://i.ibb.co/1pRJ8c4/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png)
+![Banner](./images/1.jpg)
 
 ---
 
