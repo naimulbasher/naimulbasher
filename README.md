@@ -1,4 +1,4 @@
-# 👨‍💻 Md. Naimul Basher - **Software Quality Assurance Engineer** Portfolio 🌟
+# 👨‍💻 Md. Naimul Basher - **Software Quality Assurance Engineer** 🌟
 
 Welcome to the **portfolio** of an **Aspiring Software Quality Assurance Engineer**. This portfolio demonstrates skills in **manual testing**, **automation testing**, and various **QA methodologies**. The portfolio highlights experience with tools like **JIRA**, **TestRail**, **Selenium**, **Postman**, and programming languages such as **Python** and **JavaScript**.
 
