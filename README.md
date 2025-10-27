@@ -1,6 +1,6 @@
 # Welcome to My **SQA Engineering** Journey ✨ | Crafting Quality Software Solutions  
 
-![Banner](https://i.ibb.co/K1Yrhr9/Black-and-Yellow-Web-Developer-Linked-In-Banner.png)
+![Banner](https://i.ibb.co/1pRJ8c4/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png)
 
 ---
 
@@ -98,4 +98,3 @@ An **automation testing** project for a **digital wallet system**.
 
 > “Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin  
 💻 *Let’s create robust software together!*
-
