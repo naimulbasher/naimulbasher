@@ -29,7 +29,9 @@ My focus is on **manual testing**, **automation**, and ensuring **bug-free** app
 
 ### 🎨 Testing Tools & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,postman,jira,testrail,python,cypress,playwright" alt="Testing Tools" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman,python,cypress" alt="Testing Tools" />
+  <img src="https://img.shields.io/badge/JIRA-blue?logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestRail-green?logo=testrail&logoColor=white" />
 </p>
 
 ✨───────────────────────────────✨  
