@@ -29,21 +29,21 @@ My focus is on **manual testing**, **automation**, and ensuring **bug-free** app
 
 ### 🎨 Testing Tools & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,postman,jira,testrail,python" alt="Testing Tools" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman,jira,testrail,python,cypress,playwright" alt="Testing Tools" />
 </p>
 
 ✨───────────────────────────────✨  
 
 ### ⚙ Backend Tools & Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,mongodb" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,mongodb,mysql" alt="Backend Skills" />
 </p>
 
 ✨───────────────────────────────✨  
 
 ### 🧰 Tools & Others  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
 </p>
 
 ---
