@@ -1,6 +1,6 @@
 # Welcome to My **SQA Engineering** Journey ✨ | Crafting Quality Software Solutions  
 
-![Banner](./images/1.jpg)
+![Banner](./images/1.jpg) 
 
 ---
 
