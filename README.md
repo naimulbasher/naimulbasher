@@ -51,12 +51,12 @@ My focus is on **manual testing**, **automation**, and ensuring **bug-free** app
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naimulbasher&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimulbasher&theme=tokyonight" alt="GitHub Streak" height="150"/>
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naimulbasher&show_icons=true&theme=tokyonight&count_private=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naimulbasher&theme=tokyonight)
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimulbasher&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimulbasher&layout=compact&theme=tokyonight&count_private=true)
 </p>
 
 ---
