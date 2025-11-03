@@ -67,8 +67,8 @@ My focus is on **manual testing**, **automation**, and ensuring **bug-free** app
 
 ## 📌 Current Status  
 
-- 🔭 Currently working on: *Automation Testing for Adil Pay*  
-- 🌱 Learning: *Advanced Selenium Testing*  
+- 🔭 Currently working on: Automation Testing
+- 🌱 Learning: Selenium Testing using JavaScript(NodeJS).
 - ⚡ Fun fact: I treat testing like a game—it keeps me motivated to find bugs and improve software quality!  
 - 📚 Contributing to: *Open-source SQA tools*
 
