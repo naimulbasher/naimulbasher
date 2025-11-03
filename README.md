@@ -63,25 +63,6 @@ My focus is on **manual testing**, **automation**, and ensuring **bug-free** app
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimulbasher&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
 </p>
 
-
-
----
-
-## 🚀 Featured Projects  
-
-### 🧪 [Manual Testing on EduTech Platform](https://github.com/naimulbasher/Manual-Testing-on-EduTech)  
-A **functional testing** project for an **EduTech platform**.  
-- **Testing Tools**: JIRA, TestRail, Postman  
-- **Programming**: Python, JavaScript (Node.js)
-
-✨───────────────────────────────✨  
-
-### 🛠 [Adil Pay – Digital Wallet System](https://github.com/naimulbasher/AdilPay)  
-An **automation testing** project for a **digital wallet system**.  
-- **Testing Tools**: Selenium, Playwright  
-- **Frontend**: React  
-- **Backend**: Node.js, MongoDB
-
 ---
 
 ## 📌 Current Status  
