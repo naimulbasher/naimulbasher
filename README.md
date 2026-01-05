@@ -48,12 +48,6 @@ My focus is on **manual testing**, **automation**, and ensuring **bug-free** app
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
 </p>
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naimulbasher&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="150"/>
 
 ## 📌 Current Status  
 
